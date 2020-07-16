@@ -69,6 +69,9 @@ class LinebotController < ApplicationController
           when /.*(山|ハイキング|ピクニック|散歩|ジョギング|ウォーキング|出かけ|出掛け).*/
             push =
               "ちゃんと天気確認したか！？\n行ってらっしゃい！"
+            when /.*(コロナ|ウィルス|COVID|covid|感染症).*/
+              push =
+                "できる対策はきちんとやろうな！\n手洗い・うがい、忘れたらあかんで！\n3密は避けるように！！"
           else
             per06to12 = doc.elements[xpath + 'info/rainfallchance/period[2]l'].text
             per12to18 = doc.elements[xpath + 'info/rainfallchance/period[3]l'].text
