@@ -18,6 +18,7 @@ Heroku
 <div align="center">
 [![Image from Gyazo](https://i.gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d.gif)](https://gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d)
 </div>
+[![Image from Gyazo](https://i.gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d.gif)](https://gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d)
 
 # 工夫したポイント
 
