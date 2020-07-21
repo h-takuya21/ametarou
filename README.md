@@ -15,14 +15,10 @@ Heroku
 毎日天気予報を調べるのが手間だったので、普段慣れ親しんだLINEでお知らせしてくれると便利だなと思い、制作しました。
 
 # DEMO
-<div align="center">
-[![Image from Gyazo](https://i.gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d.gif)](https://gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d)
->
-[![Image from Gyazo](https://i.gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d.gif)](https://gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d)
-
-
+<div align="center" width="400">
 <img src="https://i.gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d.gif" alt="ametaroudemo" title="ametaroudemo">
 </div
+  
 # 工夫したポイント
 
 # 使用技術(開発環境)
