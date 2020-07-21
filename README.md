@@ -16,7 +16,7 @@ Heroku
 
 # DEMO
 <div align="center">
-<img src="https://i.gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d.gif" alt="ametaroudemo" title="ametaroudemo"　width="50">
+<img src="https://i.gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d.gif" alt="ametaroudemo" title="ametaroudemo" width="320px"">
 </div
   
   
