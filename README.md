@@ -4,6 +4,8 @@
 </div>
 <h1 align="center">雨太郎(ametarou)</h1>
 
+
+
 # 概要
 友達登録をすると、大阪府の降水確率を関西弁でお知らせてくれるLINEアカウントです。
 LINEID:@270wktqa
