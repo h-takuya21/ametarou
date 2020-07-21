@@ -17,12 +17,12 @@ Heroku
 # DEMO
 <div align="center">
 [![Image from Gyazo](https://i.gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d.gif)](https://gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d)
-</div>
+>
 [![Image from Gyazo](https://i.gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d.gif)](https://gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d)
 
 
 <img src="https://i.gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d.gif" alt="ametaroudemo" title="ametaroudemo">
-
+</div
 # 工夫したポイント
 
 # 使用技術(開発環境)
