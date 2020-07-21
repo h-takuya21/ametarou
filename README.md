@@ -12,13 +12,13 @@ LINEID:@270wktqa
 Heroku
 
 # 制作背景
-毎日天気予報を調べるのが手間だったので、普段慣れ親しんだLINEでお知らせしてくれると便利だなと思い、制作しました。
+毎日天気予報を調べるのが手間だったので、普段慣れ親しんだLINEでお知らせしてくれると便利だなと思い、開発しました。
 
 # DEMO
 <div align="center">
 <img src="https://i.gyazo.com/e5d0d3c7caa3a95610d0235a6b55fd7d.gif" alt="ametaroudemo" title="ametaroudemo" width="320px"">
 </div
-                                                                                                                          
+
 # 工夫したポイント
 ## 機能①　「今日」、「明日」、「明後日」の文章に反応し、降水確率を返信します。
 収集した降水確率をただ送信するだけではなく、雨が降らない場合は降水確率ではなく、一言メッセージを送信するよう工夫しました。
@@ -28,9 +28,9 @@ Heroku
 あと、機能ではありませんが、少しでも愛着が湧くように、関西弁でメッセージを送信します。
 
 # 使用技術(開発環境)
-Ruby 2.5.1
-Rails 5.2.0
-PostgreSQL 12.3
+Ruby 2.5.1<br/>
+Rails 5.2.0<br/>
+PostgreSQL 12.3<br/>
 LINE Messaging API
 
 # 今後実装したい機能
