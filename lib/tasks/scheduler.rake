@@ -10,7 +10,7 @@ task :update_feed => :environment do
     config.channel_token = ENV["LINE_CHANNEL_TOKEN"]
   }
 
-  # 使用したxmlデータ（毎日朝6時更新）：以下URLを入力すれば見ることができます。
+  # 使用したxmlデータ（毎日朝6時更新）
   url  = "https://www.drk7.jp/weather/xml/27.xml"
   # xmlデータをパース（利用しやすいように整形）
   xml  = open( url ).read.toutf8
